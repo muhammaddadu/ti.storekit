@@ -1,5 +1,5 @@
-# Titanium Store Kit Module [![Build Status](https://travis-ci.org/appcelerator-modules/ti.storekit.png)](https://travis-ci.org/appcelerator-modules/ti.storekit)
-
+Titanium Store Kit Module [![Build Status](https://travis-ci.org/muhammaddadu/ti.storekit.png)](https://travis-ci.org/muhammaddadu/ti.storekit)
+=========
 This is the Store Kit Module for Titanium.
 
 ## Contributors
